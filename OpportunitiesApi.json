@@ -360,7 +360,7 @@
 		},
 		{
 			"id": 5,
-			"name": "Network Engineer - Systems Specialist",
+			"name": "Network Systems Specialist",
 			"organization": "NetConnect Solutions",
 			"startDate": "2024-03-15",
 			"lastDate": "2024-04-15",
@@ -377,7 +377,7 @@
 		},
 		{
 			"id": 6,
-			"name": "Mobile App Developer - iOS & Android",
+			"name": "App Developer-iOS & Android",
 			"organization": "AppTech Innovations",
 			"startDate": "2024-03-20",
 			"lastDate": "2024-04-20",
@@ -403,6 +403,11 @@
 			"image": "https://rb.gy/ltbs72",
 			"applicationUrl": "https://example.com/register/code_master_challenge",
 			"platform": "CodeGenius Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],
 			"description": "Join the CodeMaster Challenge organized by CodeGenius! Test your coding skills and compete with programmers from around the world. This contest will cover a variety of algorithmic problems and is open to both beginners and experienced coders. Don't miss the chance to showcase your coding prowess and win exciting prizes!"
 		},
 		{
@@ -414,6 +419,11 @@
 			"image": "https://rb.gy/ltbs72",
 			"applicationUrl": "https://example.com/register/algorithm_clash",
 			"platform": "CodeClash Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],
 			"description": "Gear up for Algorithm Clash, a coding contest hosted by CodeClash! This competition is tailored for algorithm enthusiasts who love solving complex problems. Participate in a series of algorithmic challenges and compete for the top spots. Register now and prove your coding mettle in the Algorithm Clash!"
 		},
 		{
@@ -425,6 +435,11 @@
 			"image": "https://rb.gy/ltbs72",
 			"applicationUrl": "https://example.com/register/codecraft_championship",
 			"platform": "CodeCrafters Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],			
 			"description": "Get ready for the CodeCraft Championship organized by CodeCrafters! This contest will challenge participants with a mix of algorithmic and real-world coding problems. Whether you're a seasoned coder or a beginner, there's something for everyone. Register today and compete for the CodeCraft Championship title!"
 		},
 		{
@@ -436,6 +451,11 @@
 			"image": "https://rb.gy/hj3p31",
 			"applicationUrl": "https://example.com/register/codeblast_challenge",
 			"platform": "CodeGeniuses Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],			
 			"description": "Join the CodeBlast Challenge organized by CodeGeniuses! Compete in this fast-paced coding competition where speed and accuracy are key. Test your coding skills against fellow programmers and win exciting prizes. Register now and get ready for the adrenaline rush of CodeBlast!"
 		},
 		{
@@ -447,6 +467,11 @@
 			"image": "https://rb.gy/hj3p31",
 			"applicationUrl": "https://example.com/register/hackathonx",
 			"platform": "CodeHackers Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],			
 			"description": "Calling all hackers! Participate in HackathonX organized by CodeHackers Inc. This hackathon will challenge your creativity and problem-solving skills. Work on real-world projects and collaborate with fellow hackers to build innovative solutions. Register today and unleash your coding prowess at HackathonX!"
 		},
 		{
@@ -458,6 +483,11 @@
 			"image": "https://rb.gy/hj3p31",
 			"applicationUrl": "https://example.com/register/codequest",
 			"platform": "CodeCrafters Platform",
+			"eligibilityCriteria": [
+				"Programming languages: Java, Python, C++(atleast One)",
+				"Age limit: Participants must be between 18 and 30 years old",
+				"No prior professional experience required, but must be passionate about coding"
+			],			
 			"description": "Embark on a coding adventure with CodeQuest hosted by CodeCrafters! Solve challenging coding puzzles and navigate through various levels of difficulty. Compete with other coders and earn rewards as you progress. Register now and set forth on your CodeQuest journey!"
 		}
 	],
