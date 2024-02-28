@@ -1,0 +1,292 @@
+{
+  "Scholarships": [
+		{
+			"id": 1,
+			"name": "STEM Excellence Scholarship",
+			"organization": "Tech Scholars Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-15",
+			"awardAmount": "$10,000",
+			"eligibilityCriteria": [
+				"High school seniors pursuing STEM fields",
+				"Minimum GPA of 3.5",
+				"Demonstrated passion for technology"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/stem_excellence",
+			"description": "The STEM Excellence Scholarship, provided by Tech Scholars Foundation, is designed to support and encourage high school seniors who are passionate about pursuing careers in STEM (Science, Technology, Engineering, and Mathematics). The scholarship award of $10,000 will be granted to selected students who meet the eligibility criteria."
+		},
+		{
+			"id": 2,
+			"name": "Environmental Science Scholarship",
+			"organization": "Green Futures Fund",
+			"startDate": "2024-05-15",
+			"endDate": "2024-06-01",
+			"awardAmount": "$8,000",
+			"eligibilityCriteria": [
+				"College students majoring in Environmental Science",
+				"Commitment to environmental conservation",
+				"Academic excellence"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/environmental_science",
+			"description": "The Environmental Science Scholarship, offered by Green Futures Fund, aims to support college students dedicated to making a positive impact in the field of environmental science. Applicants should demonstrate a strong commitment to environmental conservation, academic excellence, and a passion for addressing environmental challenges."
+		},
+		{
+			"id": 3,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 4,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 5,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 6,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 7,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 8,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 9,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 10,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 11,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 12,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 13,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 14,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 15,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 16,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 17,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		},
+		{
+			"id": 18,
+			"name": "Women in Technology Scholarship",
+			"organization": "Tech Empowerment Foundation",
+			"startDate": "2024-05-01",
+			"endDate": "2024-05-30",
+			"awardAmount": "$12,000",
+			"eligibilityCriteria": [
+				"Female students pursuing a degree in a technology-related field",
+				"Leadership qualities",
+				"Academic achievement"
+			],
+			"image": "https://rb.gy/ltbs72",
+			"applicationUrl": "https://example.com/apply/women_in_technology",
+			"description": "The Women in Technology Scholarship, sponsored by Tech Empowerment Foundation, is aimed at supporting and empowering female students pursuing degrees in technology-related fields. This scholarship recognizes and encourages the leadership qualities and academic achievements of women in the technology sector."
+		}
+	]
+}
