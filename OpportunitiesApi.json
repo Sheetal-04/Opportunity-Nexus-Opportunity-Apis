@@ -295,7 +295,7 @@
 			"name": "Software Engineer - Backend Developer",
 			"organization": "Tech Innovators Inc.",
 			"startDate": "2024-02-10",
-			"lastDate": "2024-03-10",
+			"endDate": "2024-03-10",
 			"role": "Software Engineer",
 			"location": "San Francisco, CA",
 			"eligibilityCriteria": [
@@ -312,7 +312,7 @@
 			"name": "Data Scientist - Data Analytics Specialist",
 			"organization": "Data Solutions Co.",
 			"startDate": "2024-02-15",
-			"lastDate": "2024-03-15",
+			"endDate": "2024-03-15",
 			"role": "Data Scientist",
 			"location": "New York, NY",
 			"eligibilityCriteria": [
@@ -329,7 +329,7 @@
 			"name": "Cloud Solutions Architect - AWS & Azure",
 			"organization": "Cloud Innovate Tech",
 			"startDate": "2024-03-01",
-			"lastDate": "2024-04-01",
+			"endDate": "2024-04-01",
 			"role": "Cloud Solutions Architect",
 			"location": "Seattle, WA",
 			"eligibilityCriteria": [
@@ -346,7 +346,7 @@
 			"name": "UX/UI Designer - Creative Lead",
 			"organization": "Design Dynamics Agency",
 			"startDate": "2024-03-10",
-			"lastDate": "2024-04-10",
+			"endDate": "2024-04-10",
 			"role": "UX/UI Designer",
 			"location": "Los Angeles, CA",
 			"eligibilityCriteria": [
@@ -363,7 +363,7 @@
 			"name": "Network Systems Specialist",
 			"organization": "NetConnect Solutions",
 			"startDate": "2024-03-15",
-			"lastDate": "2024-04-15",
+			"endDate": "2024-04-15",
 			"role": "Network Engineer",
 			"location": "Chicago, IL",
 			"eligibilityCriteria": [
@@ -380,7 +380,7 @@
 			"name": "App Developer-iOS & Android",
 			"organization": "AppTech Innovations",
 			"startDate": "2024-03-20",
-			"lastDate": "2024-04-20",
+			"endDate": "2024-04-20",
 			"role": "Mobile App Developer",
 			"location": "Austin, TX",
 			"eligibilityCriteria": [
@@ -397,7 +397,7 @@
 			"name": "Web Developer-iOS & Android",
 			"organization": "AppTech Innovations",
 			"startDate": "2024-05-20",
-			"lastDate": "2024-04-20",
+			"endDate": "2024-04-20",
 			"role": "Mobile App Developer",
 			"location": "Austin, TX",
 			"eligibilityCriteria": [
