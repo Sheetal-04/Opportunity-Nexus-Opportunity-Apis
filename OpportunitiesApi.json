@@ -391,6 +391,23 @@
 			"image": "https://rb.gy/hj3p31",
 			"applicationUrl": "https://example.com/apply/mobile_app_developer",
 			"description": "AppTech is seeking a Mobile App Developer to create mobile Apps. In this role, you will collaborate with our team to develop user-friendly iOS and Android apps. If you have a passion for mobile technology and a strong background in app development, we want to hear from you."
+		},
+		{
+			"id": 7,
+			"name": "Web Developer-iOS & Android",
+			"organization": "AppTech Innovations",
+			"startDate": "2024-05-20",
+			"lastDate": "2024-04-20",
+			"role": "Mobile App Developer",
+			"location": "Austin, TX",
+			"eligibilityCriteria": [
+				"Bachelor's degree in Computer Science or related field",
+				"Experience with iOS and Android app development",
+				"Proficiency in Swift, Kotlin, or Flutter"
+			],
+			"image": "https://rb.gy/hj3p31",
+			"applicationUrl": "https://example.com/apply/mobile_app_developer",
+			"description": "AppTech is seeking a Mobile App Developer to create mobile Apps. In this role, you will collaborate with our team to develop user-friendly iOS and Android apps. If you have a passion for mobile technology and a strong background in app development, we want to hear from you."
 		}
 	],
 	"CodingContests": [
